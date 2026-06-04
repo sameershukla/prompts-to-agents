@@ -1,0 +1,16 @@
+# From Prompt to Autonomous Agent
+# Requirements for Levels 1 through 5
+# Install with: pip install -r requirements.txt
+ 
+# Core SDK — used in every level
+anthropic>=0.40.0
+ 
+# Standard library modules used across levels
+# (no install needed, included with Python 3.8+)
+# json       — Levels 1, 2, 3, 4, 5
+# hashlib    — Level 4 (memory ID generation)
+# datetime   — Levels 4, 5
+# dataclasses — Level 5 (EvaluationResult)
+ 
+# Python version requirement
+# Python >= 3.8
