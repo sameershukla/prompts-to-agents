@@ -322,7 +322,7 @@ The programs are small by design. The concepts are not.
 Director of Data and AI Architecture · Irving, Texas
 [github.com/sameershukla](https://github.com/sameershukla) · [sameerbuilds.ai](https://sameerbuilds.ai)
 
-*From Prompt to Autonomous Agent* is available on Leanpub.
+*From Prompt to Autonomous Agent*
 
 ---
 
