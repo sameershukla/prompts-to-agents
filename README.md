@@ -20,22 +20,22 @@ agentic-ai-lab/
 ├── README.md                        ← you are here
 ├── requirements.txt                 ← one line: anthropic>=0.40.0
 │
-├── level1.py                        ← Basic Responder
-├── level2.py                        ← Router Pattern
-├── level3.py                        ← Tool Calling
-├── level4.py                        ← Memory Augmented Agent
-├── level5.py                        ← Autonomous Pattern
-├── level6.py                        ← Reflective Agent
-├── level7.py                        ← Human in the Loop
-├── level8.py                        ← Planning Agent
-├── level9.py                        ← Multi-Agent Pattern
-├── level10.py                       ← Tool-Building Agent
-├── level11.py                       ← Hierarchical Multi-Agent
-├── level12.py                       ← Society of Agents
+├── level1_basic_responder.py                            ← Basic Responder
+├── level2_router_pattern.py                             ← Router Pattern
+├── level3_tool_calling.py                               ← Tool Calling
+├── level4_memory_augmented.py                           ← Memory Augmented Agent
+├── level5_autonomous_pattern.py                         ← Autonomous Pattern
+├── level6_reflection_pattern.py                         ← Reflective Agent
+├── level7_hitl.py                                       ← Human in the Loop
+├── level8_planning_agent.py                             ← Planning Agent
+├── level9_multi_agent.py                                ← Multi-Agent Pattern
+├── level10_tool_building_agent.py                       ← Tool-Building Agent
+├── level11_hierarchical_multi_agent.py                  ← Hierarchical Multi-Agent
+├── level12_society_of_agents.py                         ← Society of Agents
 │
-├── chapter13_patterns.py            ← Observability, guardrails, fallback chains
-├── chapter14_evaluation.py          ← Benchmark suite, scorer, alerter
-└── chapter15_framework.py           ← Decision framework CLI
+├── chapter13.py            ← Observability, guardrails, fallback chains
+├── chapter14.py          ← Benchmark suite, scorer, alerter
+
 ```
 
 Everything is at the root. No subfolders. Open any file and run it directly.
